@@ -5,7 +5,7 @@
 - name: Alex Misko
 - located_in: Poland, Warsaw
 - from: Belarus,Minsk
-- job: ios developer in "Doc24"
+- job: ios developer in Ecosystem "Alpha"
 - education: Bachelor's in International relations
 
 
